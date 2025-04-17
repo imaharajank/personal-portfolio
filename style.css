@@ -213,6 +213,10 @@ section {
   height: 2rem;
 }
 
+.icon-email {
+  height : 3rem;
+}
+
 /* BUTTONS */
 
 .btn-container {
